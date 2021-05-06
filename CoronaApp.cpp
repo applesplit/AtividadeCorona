@@ -9,7 +9,7 @@ Esses arquivos serao criados ao executar o programa.
 	- cadadastros.txt
 	- mensagens.txt
 	- visitas.txt
-	- temp.txt (ser√° deletado automaticamente)
+	- temp.txt (ser· deletado automaticamente)
 	
 IMPORTANTE 2: Para ter acesso como Equipe Medica digite "acessoEquipe" na pagina inicial.
 
@@ -61,7 +61,7 @@ class Paciente {
 
     private:
 	      
-        string nome;
+        string nome; 
     	string telefone;
     	string CPF;
     	string cidade;
@@ -645,7 +645,6 @@ class Equipe {
 
 class Visita {
 	private:
-	
 	 	string data;
 		string horario;
 		string lugar;
