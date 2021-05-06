@@ -1,7 +1,7 @@
 /*
 ||CORONA APP || - GRUPO C
 Programa para A7 - Do modelo para o Codigo de SI304A_2021S1.
-Professor Plinio Vilela 
+Professor Plinio Vilela
 
 IMPORTANTE: Este programa utiliza 4 arquivos .txt listados abaixo.
 Esses arquivos serao criados ao executar o programa.
@@ -645,6 +645,7 @@ class Equipe {
 
 class Visita {
 	private:
+	
 	 	string data;
 		string horario;
 		string lugar;
